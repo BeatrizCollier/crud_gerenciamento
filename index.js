@@ -11,8 +11,8 @@ criarTreinamento("124", "ensinar", "Maria", "23/10/2024", "5h", "Novos funcioná
 criarTreinamento("125", "duvidas", "Marcus", "24/11/2024", "2h", "Funcionários", "vai acontecer", "bom");
 listarTreinamento();
 
-//editarTreinamento("125", "duvidas", "Fernando", "24/10/2024", "2h", "Funcionários", "vai acontecer", "Importante");
-//listarTreinamento();
+editarTreinamento("125", "duvidas", "Fernando", "24/10/2024", "2h", "Funcionários", "vai acontecer", "Importante");
+listarTreinamento();
 
 excluirTreinamento("125");
 listarTreinamento();
